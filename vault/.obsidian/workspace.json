@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "183792c9bf46bd36",
+    "type": "split",
+    "children": [
+      {
+        "id": "beb9525f33b34d9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b55f638331ee6263",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "46d933f55a0cc370",
+    "type": "split",
+    "children": [
+      {
+        "id": "dea580ed01226e0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1523931771f9f149",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f165b9c91779e6a0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "\"united:",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2565d1ad5f78fafe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "77601dcd70636898",
+    "type": "split",
+    "children": [
+      {
+        "id": "575c94076f152575",
+        "type": "tabs",
+        "dimension": 31.313926042486226,
+        "children": [
+          {
+            "id": "6deccd49fc116bb0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "04bac7b34016bb16",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "01a48ebb2be6ad96",
+        "type": "tabs",
+        "dimension": 34.539732494099134,
+        "children": [
+          {
+            "id": "550905451db9911a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "07 - Areas/Ellie/Christmas 2024.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Christmas 2024"
+            }
+          },
+          {
+            "id": "21fcf96bd6c375c7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "09 - Reference/Obsidian/Icons.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Icons"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "f4dd9db18c9203a5",
+        "type": "tabs",
+        "dimension": 34.146341463414636,
+        "children": [
+          {
+            "id": "585b9357de60eb4a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "09 - Reference/Obsidian/Icons.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Icons"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 424.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "daily-notes:Open today's daily note": false,
+      "zk-prefixer:Create new unique note": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "1523931771f9f149",
+  "lastOpenFiles": [
+    "09 - Reference/Obsidian/Icons.md",
+    "Drawing 2025-01-24 12.43.39.excalidraw.md",
+    "09 - Reference/Obsidian/Shortcut Hotkeys.md",
+    "09 - Reference/Obsidian/Sidebar Appearence.md",
+    "00 - Maps of Content/Methodology.md",
+    "09 - Reference/placeholder.md",
+    "08 - Resources/placeholder.md",
+    "07 - Areas/placeholder.md",
+    "06 - Projects/placeholder.md",
+    "05 - Media/placeholder.md",
+    "04 - Daily/placeholder.md",
+    "03 - Queue/placeholder.md",
+    "02 - Notepad/placeholder.md",
+    "01 - Global/placeholder.md",
+    "99 - META/00 - Templates/Excalidraw/(Template) System Design.md",
+    "99 - META/02 - Attachments/PNG image.png",
+    "99 - META/02 - Attachments/PNG image 1.png",
+    "99 - META/02 - Attachments/Pasted image 20250123174841.png",
+    "99 - META/02 - Attachments/Pasted image 20250121224404.png",
+    "99 - META/02 - Attachments/Pasted image 20250121224351.png",
+    "99 - META/02 - Attachments/Pasted image 20250121224324.png",
+    "99 - META/02 - Attachments/Pasted image 20250121224312.png",
+    "99 - META/02 - Attachments/Pasted image 20250121224257.png",
+    "99 - META/02 - Attachments/Pasted image 20250121224247.png",
+    "99 - META/02 - Attachments/Pasted image 20250121224139.png",
+    "99 - META/02 - Attachments/Ben Jordan - Supplementary Reading.pdf",
+    "99 - META/00 - Templates/Excalidraw",
+    "99 - META/00 - Templates/(TEMPLATE) Unique.md",
+    "99 - META/00 - Templates/(TEMPLATE) Queue.md",
+    "99 - META/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
+    "99 - META/00 - Templates/(TEMPLATE) Notepad.md",
+    "99 - META/00 - Templates/(TEMPLATE) Paper.md",
+    "99 - META/00 - Templates/(TEMPLATE) Daily.md",
+    "99 - META/00 - Templates/(TEMPLATE) Book.md",
+    "99 - META/00 - Templates/(TEMPLATE) Book Review.md",
+    "99 - META/01 - Attachments",
+    "99 - META/00 - Templates",
+    "99 - META",
+    "11 - Overflow/Study Abroad/VISA.md",
+    "11 - Overflow/Study Abroad/Software Installation.md",
+    "11 - Overflow/Study Abroad/Smart Traveler Enrollment Program.md",
+    "11 - Overflow/Study Abroad",
+    "11 - Overflow",
+    "10 - Archives/Georgia Tech/spring 2024/classes/cs7650/attachments/lec8-rnn.pdf",
+    "10 - Archives/Georgia Tech/spring 2024/classes/cs7650/attachments/lec8-rnn-steps.pdf",
+    "10 - Archives/Georgia Tech/spring 2024/classes/cs7650/attachments/lec7-seq2.pdf",
+    "Untitled.canvas"
+  ]
+}

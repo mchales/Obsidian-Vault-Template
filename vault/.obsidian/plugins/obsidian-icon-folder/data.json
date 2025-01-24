@@ -1,0 +1,135 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [],
+    "recentlyUsedIconsSize": 5,
+    "rules": [
+      {
+        "rule": "- Maps of Content",
+        "icon": "CoMap",
+        "for": "everything",
+        "order": 0,
+        "useFilePath": false
+      },
+      {
+        "rule": "- META",
+        "icon": "BoBxStoreAlt",
+        "for": "everything",
+        "order": 1
+      },
+      {
+        "rule": "- Projects",
+        "icon": "LiCreateGroup",
+        "for": "everything",
+        "order": 2
+      },
+      {
+        "rule": "- Areas",
+        "icon": "IbStackHorizontal",
+        "for": "everything",
+        "order": 3
+      },
+      {
+        "rule": "- Resources",
+        "icon": "IbDatabse",
+        "for": "everything",
+        "order": 4
+      },
+      {
+        "rule": "Attachments",
+        "icon": "BoBxPhotoAlbum",
+        "for": "everything",
+        "order": 5
+      },
+      {
+        "rule": "- Archives",
+        "icon": "LiLibraryBig",
+        "for": "everything",
+        "order": 6
+      },
+      {
+        "rule": "- Daily",
+        "icon": "CoCalendarEvent",
+        "for": "everything",
+        "order": 7
+      },
+      {
+        "rule": "- Global",
+        "icon": "LiGlobe2",
+        "for": "everything",
+        "order": 8
+      },
+      {
+        "rule": "- Queue",
+        "icon": "LiListEnd",
+        "for": "everything",
+        "order": 9
+      },
+      {
+        "rule": "Obsidian",
+        "icon": "SiObsidian",
+        "for": "everything",
+        "order": 10
+      },
+      {
+        "rule": "- Notepad",
+        "icon": "CoNoteEdit",
+        "for": "everything",
+        "order": 11
+      },
+      {
+        "rule": "- Media",
+        "icon": "SiHashnode",
+        "for": "everything",
+        "order": 12
+      },
+      {
+        "rule": "Excalidraw",
+        "icon": "SiExcalidraw",
+        "for": "folders",
+        "order": 13
+      },
+      {
+        "rule": "- Templates",
+        "icon": "LiBookTemplate",
+        "for": "everything",
+        "order": 14
+      },
+      {
+        "rule": "- Overflow",
+        "icon": "CoTrashFull",
+        "for": "everything",
+        "order": 15
+      },
+      {
+        "rule": "- Reference",
+        "icon": "LiSave",
+        "for": "everything",
+        "order": 16
+      }
+    ],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  }
+}
