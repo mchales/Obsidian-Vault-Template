@@ -1,8 +1,3 @@
----
-Date: 2024-12-15T23:04
-tags:
----
-
 # Second Brain Structure Methodology
 
 This file contains information on how notes should be created and stored within this Obsidian Vault.
